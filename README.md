@@ -8,12 +8,12 @@ Deploying a Django Application on AWS EC2 with Docker🐳
 3. Install Docker-Compose
 4. Clone the Django application
 
-**:Clone the Code:**
+**Clone the Code:**
 
 - Update all the packages and then clone the code.
 - Clone your application's code repository onto the EC2 instance:
     
-    ```bash
+    ```markdown
     git clone https://github.com/afeefuddin9/react_django_demo_app.git
     ```
 
