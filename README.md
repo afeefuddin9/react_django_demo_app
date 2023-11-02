@@ -1,21 +1,21 @@
 # react_django_demo_app
 Deploying a Django Application on AWS EC2 with Docker🐳
+# Deploy Netflix Clone on Cloud using Jenkins - DevSecOps Project!
 
-Prerequisites
-An AWS account
+### **Phase 1: Initial Setup and Deployment**
+1. An AWS account
+2. Install Docker machine
+3. Install Docker-Compose
+4. Clone the Django application
 
-Docker installed on your local machine
 
-A Django application (Git Repo)
-
-
-**Step 2: Clone the Code:**
+**: Clone the Code:**
 
 - Update all the packages and then clone the code.
 - Clone your application's code repository onto the EC2 instance:
     
     ```bash
-    git clone [https://github.com/N4si/DevSecOps-Project.git](https://github.com/afeefuddin9/react_django_demo_app.git)
+    git clone https://github.com/afeefuddin9/react_django_demo_app.git
     ```
     
 
@@ -24,7 +24,7 @@ Steps
 
 **Create a Dockerfile for your Django application. This file will define the steps that Docker will take to build and run your application.**
  <div align="center">
-  <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1696316589125/838ceb79-0fc9-484d-a0a8-0a0ff9f7aff5.png?auto=compress,format&format=webp" alt="Image" width="100%" height="100%">
+  <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1696316589125/838ceb79-0fc9-484d-a0a8-0a0ff9f7aff5.png?auto=compress,format&format=webp" alt="Image" width="auto">
 </div>
 
 
