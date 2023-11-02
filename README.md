@@ -23,7 +23,7 @@ Steps
 **Dockerize your Django application**
 
 **Create a Dockerfile for your Django application. This file will define the steps that Docker will take to build and run your application.**
- <div align="left">
+ <div align="left" style="padding-bottom: 20px;">
   <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1696316589125/838ceb79-0fc9-484d-a0a8-0a0ff9f7aff5.png?auto=compress,format&format=webp" alt="Image" width="auto">
 </div>
 
