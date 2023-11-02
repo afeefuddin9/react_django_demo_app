@@ -1,6 +1,6 @@
 # react_django_demo_app
 Deploying a Django Application on AWS EC2 with Docker🐳
-# Deploy Netflix Clone on Cloud using Jenkins - DevSecOps Project!
+# Deploy Netflix Clone on Cloud using Manual way & Jenkins - DevOps Project!
 
 ### **Phase 1: Initial Setup and Deployment**
 1. An AWS account
@@ -81,19 +81,19 @@ sudo chmod 777 /var/run/docker.sock
 ```
 
 <div class="image-div" style= "margin-top: 2em; margin-bottom: 2em;">
-  <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1696317799695/6c8c7c52-c4e7-4c2a-91aa-0e2ae1b25aa3.png?auto=compress,format&format=webp" alt="Image" max-width="90%" width="auto">
+  <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1696317799695/6c8c7c52-c4e7-4c2a-91aa-0e2ae1b25aa3.png?auto=compress,format&format=webp" alt="Image" width="90o">
 </div>
 
 **Pull your Docker image from the Docker registry or Run the container from the image that you have created locally.**
 
 <div class="image-div" style= "margin-top: 2em; margin-bottom: 2em;">
-  <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1696317958590/57c8e4d4-a3b9-4630-b42c-67f5bcdc7abc.png?auto=compress,format&format=webp" alt="Image" max-width="90%" width="auto">
+  <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1696317958590/57c8e4d4-a3b9-4630-b42c-67f5bcdc7abc.png?auto=compress,format&format=webp" alt="Image" width="90o">
 </div>
 
 **Run your Docker image on the EC2 instance.**
 
 <div class="image-div" style= "margin-top: 2em; margin-bottom: 2em;">
-  <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1696318027765/b6639ffc-9fd7-465c-94e8-a782f6e44690.png?auto=compress,format&format=webp" alt="Image" max-width="90%" width="auto">
+  <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1696318027765/b6639ffc-9fd7-465c-94e8-a782f6e44690.png?auto=compress,format&format=webp" alt="Image" width="90o">
 </div>
 ```
 
