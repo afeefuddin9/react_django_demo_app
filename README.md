@@ -1,5 +1,5 @@
 # react_django_demo_app
-Deploying a Django Application on AWS EC2 with Docker🐳
+Deploying a Django Application on AWS EC2 with Docker🐳.
 # Deploy Netflix Clone on Cloud using Manual way & Jenkins - DevOps Project!
 
 ### **Phase 1: Initial Setup and Deployment**
