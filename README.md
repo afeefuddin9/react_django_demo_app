@@ -76,7 +76,7 @@ Launch an EC2 instance.
 
 **Install Docker on the EC2 instance.**
 
-**Steps to Install Docker: Install Docker and Run the App Using a Container:**
+**Steps to Install Docker: Install Docker and Run the App Using a Container:
 
 - Set up Docker on the EC2 instance:
     
@@ -90,7 +90,7 @@ Launch an EC2 instance.
     
  <div align="center">
   <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1696317799695/6c8c7c52-c4e7-4c2a-91aa-0e2ae1b25aa3.png?auto=compress,format&format=webp" alt="Image" width="auto">
-     <span></span>
+     <div></div>
 </div>
 
 
